@@ -6,10 +6,11 @@
 [![Qiskit](https://img.shields.io/badge/qiskit-0.45+-purple.svg)](https://qiskit.org/)
 [![License](https://img.shields.io/badge/license-Educational-green.svg)](LICENSE)
 
-> **Important Note**: This project demonstrates quantum computing concepts for educational purposes. Classical algorithms are actually more efficient for solving standard Sudoku puzzles. The value here is in learning how quantum algorithms work and understanding when quantum computing provides advantages (and when it doesn't).
-
 ---
 ![Sudoqu](./Sudoqu%20Victorian%20invention.png  "Sudoqu")
+---
+
+> **Important Note**: This project demonstrates quantum computing concepts for educational purposes. Classical algorithms are actually more efficient for solving standard Sudoku puzzles. The value here is in learning how quantum algorithms work and understanding when quantum computing provides advantages (and when it doesn't).
 ---
 
 ## 📋 Table of Contents
